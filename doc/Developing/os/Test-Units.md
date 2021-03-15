@@ -17,7 +17,7 @@ make sure it is modified in a consistent manner.
 > you will need it installed and functioning.  We run snmpsim during
 > our integration tests, but not by default when running
 > `lnms dev:check`.  You can install snmpsim with the
-> command `pip3 install snmpsim`.
+> command `pip3 install --user snmpsim`.
 
 ## Capturing test data
 
